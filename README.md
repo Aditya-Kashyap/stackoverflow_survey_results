@@ -110,7 +110,7 @@ This is a Udacity Nanodegree project. I was interested in using Stackoverflow De
 
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
 
-Copyright: Aditya Kashyap
+Copyright: [Aditya Kashyap](https://github.com/Aditya-Kashyap)
 
 
 ## Acknowledgements
