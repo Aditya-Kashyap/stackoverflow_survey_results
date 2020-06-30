@@ -52,7 +52,7 @@ You need to be able to work in a Jupyter Notebook on your computer. The followin
 You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). 
 
 ## Project Motivation <a name="motivation"></a>
-This is a Udacity Nanodegree project. I was interested in using Stackoverflow Developer Survey Data to better understand
+This is a Udacity Nanodegree project. I was interested in using Stackoverflow Developer Survey Data to better understanding of the overall data which was shared by all the developers.
 
 ## Files in the repo
 - `Stack Overflow Developer Survey.ipynb` - Analysis
