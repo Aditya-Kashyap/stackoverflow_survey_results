@@ -56,7 +56,7 @@ You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Surve
 This is a Udacity Nanodegree project. I was interested in using Stackoverflow Developer Survey Data to better understand
 
 ## Files in the repo
-- `application.ipynb` - Analysis
+- `Stack Overflow Developer Survey.ipynb` - Analysis
 - `survey_results_public.csv` - Developers Survey Result Data
 - `survey_results_schema.csv` `reviews.csv` - Developers Survey Result Schema
 
