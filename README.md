@@ -50,7 +50,7 @@ I have graphed different behaviours that were relevant to the 4 questions, with 
 
 ### 5- Evaluation
 
-I have evaluated the results as metioned below of the 4 questions.
+I have evaluated the results as metioned below in the form of Summary:
 
 
 ## Summary
