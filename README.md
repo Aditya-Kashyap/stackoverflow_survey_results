@@ -46,7 +46,11 @@ For the data preparation phase, we gathered the data, assessed it and then proce
 
 ### 4- Data Modeling
 
-we graphed different behaviours that were relevant to the 4 questions, with the python libraries matplotlib and seaborn.
+I have graphed different behaviours that were relevant to the 4 questions, with the python libraries matplotlib and seaborn.
+
+### 5- Evaluation
+
+I have evaluated the results as metioned below of the 4 questions.
 
 
 ## Summary
