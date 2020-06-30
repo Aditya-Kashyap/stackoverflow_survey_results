@@ -6,7 +6,6 @@
 </p>
 <h3 align="center"><a href='https://www.udacity.com/course/data-scientist-nanodegree--nd025'>Udacity Data Scientist Nanodegree Program</a></h3>
 <h4 align="center">Project I: Write a Data Science Blog Post</h4>
-![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 ## Objectives
 - How education may influence the salary?
